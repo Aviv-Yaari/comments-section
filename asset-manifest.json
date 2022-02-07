@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/comments-section/static/js/main.ba425701.js",
+    "static/media/image-amyrobson.webp": "/comments-section/static/media/image-amyrobson.974bbf3c9ffb709f30a0.webp",
+    "static/media/image-juliusomo.webp": "/comments-section/static/media/image-juliusomo.595ca29b9049f4c6ce66.webp",
+    "static/media/image-maxblagun.webp": "/comments-section/static/media/image-maxblagun.e423f15841d76f3a5361.webp",
+    "static/media/image-ramsesmiron.webp": "/comments-section/static/media/image-ramsesmiron.62a67681169b8dcdc378.webp",
+    "index.html": "/comments-section/index.html",
+    "static/media/icon-plus.svg": "/comments-section/static/media/icon-plus.0037a825a550965779412c2890bd328b.svg",
+    "static/media/icon-edit.svg": "/comments-section/static/media/icon-edit.b0c7f9ebaec367bd3ae2.svg",
+    "static/media/icon-reply.svg": "/comments-section/static/media/icon-reply.bfb4589d45cd96abd45e3b82f7e7bbc6.svg",
+    "static/media/icon-minus.svg": "/comments-section/static/media/icon-minus.4aa6933cb1575b3c54fa67d84a61efaf.svg",
+    "static/media/icon-delete.svg": "/comments-section/static/media/icon-delete.86cedbf2e37529f9c8f1f744254059b0.svg",
+    "main.ba425701.js.map": "/comments-section/static/js/main.ba425701.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ba425701.js"
+  ]
+}
